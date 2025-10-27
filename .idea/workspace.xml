@@ -6,6 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="4256ca04-70b6-4e66-be6e-a3eeaacd2a40" name="Changes" comment="bhu">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djtijmen.css" beforeDir="false" afterPath="$PROJECT_DIR$/djtijmen.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djtijmenContact.html" beforeDir="false" afterPath="$PROJECT_DIR$/djtijmenContact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djtijmenGalerij.html" beforeDir="false" afterPath="$PROJECT_DIR$/djtijmenGalerij.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,12 +25,12 @@
     &quot;assignee&quot;: &quot;tijmenloix&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/tijmenloix/djtijmen.git",
-    "accountId": "6dbb2e93-3608-451b-a473-a4dcab10f596"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/tijmenloix/djtijmen.git&quot;,
+    &quot;accountId&quot;: &quot;6dbb2e93-3608-451b-a473-a4dcab10f596&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -79,6 +83,9 @@
       <workItem from="1761465928294" duration="37000" />
       <workItem from="1761552396851" duration="470000" />
       <workItem from="1761552911427" duration="954000" />
+      <workItem from="1761554475335" duration="300000" />
+      <workItem from="1761595023741" duration="1546000" />
+      <workItem from="1761596598100" duration="683000" />
     </task>
     <task id="LOCAL-00001" summary="bhu">
       <option name="closed" value="true" />
@@ -104,7 +111,23 @@
       <option name="project" value="LOCAL" />
       <updated>1761552726286</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="bhu">
+      <option name="closed" value="true" />
+      <created>1761554714745</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1761554714745</updated>
+    </task>
+    <task id="LOCAL-00005" summary="bhu">
+      <option name="closed" value="true" />
+      <created>1761554752798</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1761554752798</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
