@@ -43,6 +43,10 @@ header {
     transition: 0.3s;
 }
 
+.navbar {
+    display: none;
+}
+
 main {
     padding-top: 100px
 }
@@ -154,6 +158,17 @@ main {
 .mix {
     display: flex;
 
+}
+
+.home3 iframe {
+    width: 100%;
+    height: 300px;
+}
+
+.row1,
+.row2 {
+    display: flex;
+    flex-direction: row;
 }
 
 .home4 {
@@ -412,7 +427,7 @@ footer {
         display: flex;
         align-items: center;
         justify-content: space-between;
-        padding: 10px 0;
+        padding: 30px 0;
         box-shadow: 0 4px 10px rgba(0, 0, 0, 1);
     }
 
@@ -424,10 +439,10 @@ footer {
     .knop {
         font-weight: bold;
         text-transform: uppercase;
-        font-size: 1.3rem;
+        font-size: 2rem;
         color: black;
         padding: 10px;
-        margin: 1px 50px;
+        margin: 1px 30px;
         text-decoration: none;
         border: 3px solid black;
         border-radius: 16px;
@@ -440,8 +455,12 @@ footer {
         transition: 0.3s;
     }
 
+    .navbar {
+        display: none;
+    }
+
     main {
-        padding-top: 100px
+        padding-top: 150px
     }
 
     .home1 {
@@ -468,15 +487,15 @@ footer {
 
 
     .home2 img {
-       display: none;
+        display: none;
     }
 
     .text-container {
-        max-width: 600px;
+        max-width: 800px;
     }
 
     .text-container h1 {
-        font-size: 1.8rem;
+        font-size: 2.4rem;
         font-weight: 800;
         letter-spacing: 1px;
         text-transform: uppercase;
@@ -484,12 +503,19 @@ footer {
     }
 
     .text-container h2 {
+        font-size: 2rem;
+        font-weight: 700;
+        margin-top: 40px;
+    }
+
+    .text-container h3 {
         font-size: 1.5rem;
         font-weight: 700;
         margin-top: 40px;
     }
 
     .text-container p {
+        font-size: 1.5rem;
         line-height: 1.6;
         margin-bottom: 15px;
     }
@@ -503,7 +529,7 @@ footer {
         color: black;
         border: none;
         padding: 10px;
-        font-size: 1rem;
+        font-size: 1.5rem;
         border-radius: 8px;
         cursor: pointer;
         text-decoration: none;
@@ -538,16 +564,29 @@ footer {
         padding: 100px;
         font-family: 'Poppins', sans-serif;
         flex-direction: column;
+        font-size: 1.5rem;
 
     }
 
-    .box {
-        margin: 30px;
-    }
 
     .mix {
         display: flex;
+    }
 
+
+    .box {
+        margin: 50px;
+    }
+
+    .home3 iframe {
+        width: 100%;
+        height: 300px;
+    }
+
+    .row1,
+    .row2 {
+        display: flex;
+        flex-direction: column;
     }
 
     .home4 {
@@ -634,7 +673,6 @@ footer {
 
 
     /*Galerij*/
-
     .bodygalerij {
         margin: 0;
         background-color: white;

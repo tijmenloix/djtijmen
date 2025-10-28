@@ -7,8 +7,6 @@
     <list default="true" id="4256ca04-70b6-4e66-be6e-a3eeaacd2a40" name="Changes" comment="bhu">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/djtijmen.css" beforeDir="false" afterPath="$PROJECT_DIR$/djtijmen.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djtijmenContact.html" beforeDir="false" afterPath="$PROJECT_DIR$/djtijmenContact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djtijmenGalerij.html" beforeDir="false" afterPath="$PROJECT_DIR$/djtijmenGalerij.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -85,7 +83,8 @@
       <workItem from="1761552911427" duration="954000" />
       <workItem from="1761554475335" duration="300000" />
       <workItem from="1761595023741" duration="1546000" />
-      <workItem from="1761596598100" duration="683000" />
+      <workItem from="1761596598100" duration="1424000" />
+      <workItem from="1761645469828" duration="2593000" />
     </task>
     <task id="LOCAL-00001" summary="bhu">
       <option name="closed" value="true" />
@@ -127,7 +126,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761554752798</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="bhu">
+      <option name="closed" value="true" />
+      <created>1761597323822</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1761597323822</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
